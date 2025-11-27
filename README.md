@@ -18,21 +18,21 @@ rename filename.py to anyname.py
 
             or
             
-            ```python3 anyname.py 
+            `python3 anyname.py `
 
             Go To Settings Keyboard, and use a bash script to put the filename in order.
-            ```sudo -s ```
+            `sudo -s `
             
-            ```touch filename.sh 
+            `touch filename.sh `
             
-            ```nano filename.sh 
+            `nano filename.sh `
 
             paste: ```#!/bin/bash
-            python3 /home/tj/screen.py 
+            python3 /home/tj/screen.py ```
 
             CTRL + X to save and exit.
 
-            In Keyboard Shortcuts from Settings click + button add and type ```./filename.sh
+            In Keyboard Shortcuts from Settings click + button add and type `./filename.sh`
             
             and press the Prt Scr Sys Rq button and now click yes use ./filename.py instead. and you should have everyhting work now
 
