@@ -11,23 +11,23 @@ rename filename.py to anyname.py
 ```nano filename.py``` CTRL + O, CTRL + X * Control + O to save; Control + X to Exit.
 
 # copy and paste code into terminal with CTRL + C, and in terminal use CTRL + SHIFT + V to paste code into nano code editer; you can use vi for vim, it is your preference.
-``` python3 filename.py
+```python3 filename.py
 
 
 
 
             or
             
-            ``` python3 anyname.py 
+            ```python3 anyname.py 
 
             Go To Settings Keyboard, and use a bash script to put the filename in order.
-            ``` sudo -s ```
+            ```sudo -s ```
             
-            ``` touch filename.sh 
+            ```touch filename.sh 
             
-            ``` nano filename.sh 
+            ```nano filename.sh 
 
-            paste: ``` #!/bin/bash
+            paste: ```#!/bin/bash
             python3 /home/tj/screen.py 
 
             CTRL + X to save and exit.
