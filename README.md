@@ -26,14 +26,14 @@ rename filename.py to anyname.py
             
             ```nano filename.sh```
 
-            paste: #!/bin/bash
+            paste: ``` #!/bin/bash
             # Simple wrapper to run your Python screenshot tool
 
-            python3 /home/tj/screen.py
+            python3 /home/tj/screen.py ```
 
             CTRL + X to save and exit.
 
-            In Keyboard Shortcuts from Settings click + button add and type ``./filename.sh``
+            In Keyboard Shortcuts from Settings click + button add and type ```./filename.sh``
             
             and press the Prt Scr Sys Rq button and now click yes use ./filename.py instead. and you should have everyhting work now
 
