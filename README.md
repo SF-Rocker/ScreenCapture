@@ -1,5 +1,5 @@
 <h2>Uses Grim + Scrot for screenshot terminal tools, and uses maim -s for screenshot click and drag selection.</h2>
-<h1>Screenshot Tool for terminal on XFCE and KDE setups mainly for my singleboard computers without a Print Screen Function</h1>
+<h1>Screenshot Tool for Terminal on XFCE and KDE setups mainly for my singleboard computers without a Print Screen Function</h1>
 <h3>Set it up for a shortcut</h3>
 
 rename filename.py to anyname.py
