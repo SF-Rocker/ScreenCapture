@@ -1,4 +1,4 @@
-# Uses Grim + Scrot for screenshot terminal tools, and uses maim -s for screenshot click and drag selection.
+# Uses Grim + Scrot for wayland compistor environment, and uses maim -s for x11 environemnt uses screenshot click and drag selection.
 Screenshot Tool for Terminal on XFCE and KDE setups mainly for my singleboard computers without a Print Screen Function
 Set it up for a shortcut
 
