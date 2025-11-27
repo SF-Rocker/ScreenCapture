@@ -17,18 +17,17 @@ rename filename.py to anyname.py
 
 
             or
+            
             ``` python3 anyname.py ```
 
             Go To Settings Keyboard, and use a bash script to put the filename in order.
-            ``` sudo -s```
+            ``` sudo -s ```
             
             ``` touch filename.sh ```
             
             ``` nano filename.sh ```
 
             paste: ``` #!/bin/bash
-            # Simple wrapper to run your Python screenshot tool
-
             python3 /home/tj/screen.py ```
 
             CTRL + X to save and exit.
