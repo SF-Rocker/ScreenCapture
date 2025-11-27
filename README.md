@@ -30,6 +30,6 @@ rename filename.py to anyname.py
 
             In Keyboard Shortcuts from Settings click + button add and type ./filename.sh
             
-            and press the Prt Scr Sys Rq button and now click yes use ./filename.py instead. and you should have everyhting work now
+            and press the Prt Scr Sys Rq button and now click yes use ./filename.py instead. and you should have everything working now.
 
             
