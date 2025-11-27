@@ -8,7 +8,9 @@ rename filename.py to anyname.py
 
 `sudo -s`
 
-```nano filename.py```                      CTRL + O, CTRL + X * Control + O to save; Control + X to Exit.
+```nano filename.py```                     
+
+CTRL + O, CTRL + X * Control + O to save; Control + X to Exit.
 
  # copy and paste code into terminal with CTRL + C, and in terminal use CTRL + SHIFT + V to paste code into nano code editer; you can use vi for vim, it is your preference.
 ```python3 filename.py
