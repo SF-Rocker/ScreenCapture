@@ -4,9 +4,9 @@
 
 rename filename.py to anyname.py
 
-```touch filename.py
+`touch filename.py`
 
-```sudo -s
+`sudo -s`
 
 ```nano filename.py``` CTRL + O, CTRL + X * Control + O to save; Control + X to Exit.
 
